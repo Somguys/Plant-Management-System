@@ -1,4 +1,4 @@
-# My Personal Project
+# Personal Project using Test-Driven Development (JUnit)
 
 ## Plant Management system for your favourite virtual garden
 
