@@ -33,9 +33,3 @@ To create the plants, I will code the classes in Java to give their unique chara
 And the plants will be placed in several gardens. These will be list <Plant> and <br> also have altering characteristics <br>
 that affect the livability of each plant, based on their type and individual characteristics. 
 
-*Alternative*<br>
-Originally wanted to do a OCR (text recognition system) Where I can use webcam  <br>
-to take pictures of gas receipts. And then have the system calculate several data metrics<br>
-such as monthly consumption in $ and volume. Also the user would log their mileage everytime they take a picture of their <br>
-receipt. This way we can compute whether the car computer metrics are accurate. 
-But did not have time to discuss with TA 
